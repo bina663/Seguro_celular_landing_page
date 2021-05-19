@@ -1,2 +1,2 @@
 # Seguro_celular_landing_page
-<img src='media/site.jpg'>
+<a href='https://segurocelular.herokuapp.com/'><img src='media/site.jpg'></a>
